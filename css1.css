@@ -1,0 +1,610 @@
+/*---------------------HEADER-------------------------*/
+
+header{
+    background-color: rgb(255, 48, 2) ;
+    padding: 15px 0px 5px 0px;
+    height: 50px;
+    width: 100%;
+}
+
+.head11 {
+    float: left;
+    padding-left: 100px;
+}
+header img{
+	float:left;
+    padding-left: 50px;
+    padding-right: 300px;
+}
+
+.head11 a{
+    color: rgb(255, 255, 255);
+}
+ul a{
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+/*-----------------MAIN----------------------------*/
+main{
+	width: 100%;
+	height: 4800px;
+	background-color:rgb(255, 255, 255);
+	margin-top: 0px;
+}
+
+section {
+    width: 100%;
+	height: 610px;
+	background-color:rgb(255, 236, 219);
+    
+}
+
+/*----------------SEC0------------------------------------*/
+#sec0 {
+    float: left;
+}
+.canhan {
+    padding-left: 80px;
+    padding-top: 10px;
+}
+/*---------------SEC1-------------------------------------*/
+#sec1 {
+    float: left;
+}
+
+.sec11 {
+    margin: 100px 50px 0px;
+    padding: 3px 0px 0px 455px;
+    color: rgb(255, 77, 64);
+}
+
+.sec12 {
+    margin: 0px 50px 0px;
+    padding: 5px 0px 0px 230px;
+    color: rgb(234, 31, 102);
+}
+
+.sec13 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 455px;
+    color: rgb(19, 39, 110);
+}
+
+.sec14 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 455px;
+    color: rgb(19, 39, 110);
+}
+
+.sec15 {
+    margin: 150px 450px 10px 550px;
+    padding: 10px 50px 0px 55px;
+    color: rgb(19, 39, 110);
+    background-color: #e77517;
+}
+
+.sec16 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 455px;
+    color: rgb(19, 39, 110);
+}
+
+.sec17 {
+    margin: 0px 50px 0px;
+    padding: 10px 0px 0px 305px;
+    color: rgb(19, 39, 110);
+}
+/*-----------------SEC2-----------------*/
+#s2 {
+    float: left;
+}
+#sec2 {
+	background-color: rgb(255, 131, 103) ;
+	height: 620px;
+	width: 100%;
+    display: block;
+}
+
+.sec21 {
+    
+    margin-left: 0px; margin-right: 50px;
+    padding: 0px 0px 0px 450px;
+    color: rgb(255, 255, 17);
+    
+}
+
+.sec22 {
+    margin: 0px 0px  0px 0px;
+    padding: 10px 0px 0px 450px;
+    color: rgb(255, 255, 255);
+}
+
+.sec23 {
+    margin: 0px 0px 0px 0px;
+    padding: 10px 0px 0px 450px;
+    color: rgb(255, 255, 255);
+}
+
+.sec24 {
+    margin: 0px 0px 0px 0px;
+    padding: 10px 0px 0px 450px;
+    color: rgb(255, 255, 255);
+}
+
+.sec25 {
+    margin: 0px 0px  0px 0px;
+    padding: 10px 0px 0px 450px;
+    color: rgb(255, 255, 255);
+}
+
+.sec26 {
+    margin: 0px 0px  0px 0px;
+    padding: 10px 0px 0px 450px;
+    color: rgb(255, 255, 255);
+}
+
+.sec27 {
+    margin: 0px 0px  0px 0px;
+    padding: 10px 0px 0px 600px;
+    color: rgb(241, 230, 19);
+}
+
+.sec28 {
+    margin: 0px 0px  0px 0px;
+    padding: 10px 0px 0px 480px;
+    color: rgb(255, 255, 255);
+}
+
+
+
+/*---------------SEC3-------------------------*/
+#sec3 {
+    float: left;
+}
+.canhan1 {
+    margin: 200px 5px 0px;
+    padding: 0px 0px 0px 205px;
+    color: rgb(255, 190, 213);
+}
+
+/*-----------------SEC4----------------------*/
+#sec4 {
+	float: left;	
+}
+
+.sec29 {
+    margin-top: 180px;
+    padding: 0px 0px 0px 250px;
+	color:#024029;
+}
+
+.sec291 {
+    padding: 0px 0px 0px 250px;
+	color:#FFF;
+}
+.sec292 {
+    padding: 0px 0px 0px 250px;
+	color:#FFF;
+}
+.sec293 {
+    padding: 0px 0px 0px 250px;
+	color:#FFF;
+}
+.sec294 {
+    padding: 0px 0px 0px 250px;
+	color:#FFF;
+}
+
+.sec295 {
+    padding: 10px 0px 0px 280px;
+	color:#FFF;
+}
+
+.sec296 {
+    padding: 0px 0px 0px 250px;
+	color:#FFF;
+}
+.sec297 {
+    padding: 0px 0px 0px 250px;
+	color:#FFF;
+}
+
+/*------------SECd-----------------------------*/
+#secd {
+    color: rgb(4, 100, 9);
+    background-color: rgb(255, 184, 153) ;
+    padding-top: 50px; padding-bottom: 50px;
+    height: 720px ;
+}
+/*----------------SEC51-----------------------*/
+.sec55 {
+    padding-left: 650px; 
+}
+
+#sec510 {
+    float: left;
+}
+#sec51 {
+    float: left; 
+}
+.sec555 {
+    padding-left: 250px; margin-right: 200px;
+}
+/*--------------SEC6-----------------------------*/
+#sec6 {
+    float: left;
+}
+
+.sec66 {
+    padding-left: 1550px;
+  
+    color: rgb(220, 111, 10);
+
+    font-size: 200%;
+}
+
+/*-----------------------S6-----------------*/
+#s6 {
+    background-color: rgb(255, 225, 194) ;
+    height: 250px;
+    width: 100%;
+    display: flex;
+    
+}
+/*-------------------SOFTWERE-----------------*/
+
+
+.soft {
+    color: #8d2205;
+  
+    height: 50px;
+    width: 600px;
+    padding-left: 350px; padding-top: 0px;
+    margin-left: 280px; margin-top: 50px;
+}
+.soft1 {
+    color: #2bb1d3;
+    
+    height: 50px;
+    width: 600px;
+    padding-left: 200px; padding-top: 0px;
+    margin-left: 350px; margin-top: 50px;
+}
+.sof0 {
+    color: #8d2205;
+    
+    height: 50px;
+    width: 600px;
+    padding-left: 250px; padding-top: 0px;
+    margin-left: 200px; margin-top: 50px;
+}
+.port10 {
+    color: #8d2205;
+  
+    height: 50px;
+    width: 600px;
+    padding-left: 350px; padding-top: 0px;
+    margin-left: 280px; margin-top: 50px;
+}
+.port1 {
+    color: #043a9f;
+    background-color: #fff;
+    height: 50px;
+    
+    padding-left: 350px; padding-top: 0px;
+    margin-left: 150px; margin-top: 50px;
+}
+/*-----------------service--------*/
+#svice {
+	width: 100%;
+	height: 340px;
+    background-color: rgb(255, 225, 194) ;
+	font-family: Tahoma;
+	display: flex;
+    padding-top: 50px;
+}
+
+/*----------------ft1------------------------*/
+#svice1 {
+	float: left;
+	margin: 0px;
+}
+.svice11{
+	margin: 0px 50px 50px 0px;
+	color: #FFF;
+	padding: 25px 20px 0px 10px;
+}
+
+/*------------------ft2--------------*/
+#svice2 {
+	float: left;
+}
+.svice222 {
+    color: rgb(255, 255, 255);
+	padding: 2px 0px 0px 0px;
+	text-decoration: none;
+}
+/*-----------------ft3----------------*/
+#svice3 {
+    float: left;
+}
+
+.svice33 {
+    color: rgb(255, 255, 255);
+	padding: 2px 0px 0px 10px;
+	text-decoration: none;
+}
+/*------------------ft4------------*/
+#sviec4 {
+    float: left;
+}
+
+.svice44 {
+    color: rgb(255, 255, 255);
+	padding: 2px 0px 0px 100px;
+	text-decoration: none;
+}
+/*------------------portfolio-----------*/
+/*-----------------service--------*/
+#por {
+	width: 100%;
+	height: 340px;
+    background-color: rgb(255, 225, 194) ;
+	font-family: Tahoma;
+	display: flex;
+    padding-top: 50px;
+}
+
+/*----------------ft1------------------------*/
+#por1 {
+	float: left;
+	margin: 0px;
+}
+.por11{
+	margin: 0px 50px 50px 0px;
+	color: #FFF;
+	padding: 25px 20px 0px 10px;
+}
+
+/*------------------ft2--------------*/
+#por2 {
+	float: left;
+}
+.por222 {
+    color: rgb(255, 255, 255);
+	padding: 2px 0px 0px 0px;
+	text-decoration: none;
+}
+/*-----------------ft3----------------*/
+#por3 {
+    float: left;
+}
+
+.por33 {
+    color: rgb(255, 255, 255);
+	padding: 2px 0px 0px 10px;
+	text-decoration: none;
+}
+
+
+
+
+/*-------------view-----------------*/
+#view{
+	
+	height: 100px;
+	
+    padding-left: 65px;
+   
+}
+/*-------------service-----------------*/
+#sv {
+    background-color: #4e4e4e; 
+    width: 100%;height: 410px;
+    display: flex;
+    padding-top: 50px; color: #FFF;
+}
+
+#sv1 {
+    float: left;
+}
+
+.sv11{
+    color: #FFF;
+}
+#sv22 {
+    float: left;
+    color: #FFF;
+}
+
+#sv3 {
+    float: left;  
+}
+/*-----------------*/
+#sv {
+    background-color: #4e4e4e; 
+    width: 100%;height: 410px;
+    display: flex;
+    padding-top: 50px;color: aqua;
+}
+/*-------------more--------*/
+#more {
+	height: 100px;
+	background-color:#4e4e4e;
+    padding-left: 600px;
+    display: flex;
+}
+/*-----------------doyou--------*/
+#doyou {
+	width: 100%;
+	height: 150px;
+    background-color: rgb(151, 50, 3) ;
+	font-family: Tahoma;
+	display: flex;
+    padding-top: 20px;
+}
+
+/*----------------ft1------------------------*/
+#doyou1 {
+	float: left;
+	margin: 0px;padding-left: 100px;
+}
+.doyou11 {
+	margin: 0px 50px 50px 0px;
+	color: #FFF;
+	padding: 25px 20px 0px 10px;
+}
+
+/*------------------ft2--------------*/
+#doyou2 {
+	float: left; padding-left: 100px;
+}
+.doyou222 {
+    color: rgb(255, 255, 255);
+	padding: 2px 0px 0px 0px;
+	text-decoration: none;
+}
+/*--------------q&a--------*/
+#qa {	
+	height: 250px;
+	background-color: rgb(255, 255, 245) ;
+    padding-left: 200px;
+    display: flex;  
+}
+#hr {	
+	height: 50px;
+	background-color: rgb(255, 255, 245) ;
+
+    display: flex;  
+}
+/*----q1----------------*/
+#q1 {
+    height: 150px;
+	background-color: rgb(255, 255, 245) ;
+    padding-left: 100px;
+    display: flex;  
+    color: #FFF;
+    font-size: 200%;
+}
+
+#q11 {
+    float: left;
+    color: #05d20c;
+    padding-left: 200px;
+}
+
+#q12 {
+    float: left;
+    padding-left: 300px;
+
+}
+#q13 {
+    float: left;
+    color: #FFF;
+    padding-top: 10px;
+}
+
+.daucong {
+    padding-right: 50px;
+}
+/*---------------sq1----------*/
+/*----q1----------------*/
+#sq1 {
+    height: 350px;
+	background-color: rgb(255, 226, 213) ;
+    padding-left: 100px;padding-top: 100px;
+    display: flex;  
+    color: #FFF;
+    font-size: 200%;
+}
+
+#sq11 {
+    float: left;
+    color: #000000;
+    padding-left: 200px;padding-right: 50px;
+    padding-top: 0px;
+}
+
+#sq12 {
+    float: left;
+    padding-left: 200px;
+
+}
+#sq13 {
+    float: left;
+    margin-left: 300px;
+    border-color: #000000;
+}
+
+.sq112 {
+    font-size: 50%;color: #068f48;
+    
+}
+.q112 {
+    color: #8d2205;
+}
+
+#send {
+    padding-left: 55px;
+}
+.send1 {
+    background-color: #e77517;
+    padding: 5px 5px 5px 50px ;
+}
+
+/*--------------footer------------------*/
+footer{
+	width: 100%;
+	height: 340px;
+	background-color: rgb(225, 60, 23) ;
+	font-family: Tahoma;
+	display: flex;
+    padding-top: 50px;
+    margin-top: 40px;
+}
+
+/*----------------ft1------------------------*/
+#ft1 {
+	float: left;
+	margin: 0px;
+}
+.ft11{
+	margin: 0px 50px 50px 0px;
+	color: #FFF;
+	padding: 25px 20px 0px 10px;
+}
+.tdmu{
+	color: #FFF;
+}
+/*------------------ft2--------------*/
+#ft2 {
+	float: left;
+}
+.ft222 {
+    color: rgb(255, 255, 255);
+	padding: 2px 0px 0px 0px;
+	text-decoration: none;
+}
+/*-----------------ft3----------------*/
+#ft3 {
+    float: left;
+}
+
+.ft33 {
+    color: rgb(255, 255, 255);
+	padding: 2px 0px 0px 100px;
+	text-decoration: none;
+}
+/*------------------ft4------------*/
+#ft4 {
+    float: left;
+}
+
+.ft44 {
+    color: rgb(255, 255, 255);
+	padding: 2px 0px 0px 100px;
+	text-decoration: none;
+}
